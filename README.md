@@ -1,23 +1,30 @@
 Hi there 👋  
 I'm Aayush Pantha  
-Security Researcher | Red Team | Offensive Security | OWASP Member 
-Security Researcher at SecureIQLab Pvt. Ltd.  
-I test how attacks behave and how defenses respond.
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2b2I3ZXNwcGoydzhjdzhpZXhoaXcxem1tYmRoMG43d3FpY251MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif" width="260" align="left" />
 
-Areas of focus.
-- Web exploitation and chaining flaws
-- Active Directory attacks and privilege escalation
-- Ransomware execution testing
-- ATT&CK-based attack simulation
+<br><br><br><br><br><br>
 
-📚 Currently studying advanced offensive techniques and enterprise environments.
+Security Researcher | Offensive Security | OWASP Member | Technical Writer  
+Security Researcher at SecureIQLab Pvt. Ltd.  
+I work on offensive and defensive security testing.
+
+Focus areas.
+- Web application security
+- Active Directory security
+- Malware and ransomware testing
+- Security product validation
+
+📚 Currently improving skills in enterprise security and offensive techniques.
+
+<br clear="left"/>
 
 ## 🌐 Socials
 Website: https://aayushpantha.com.np  
 LinkedIn: https://linkedin.com/in/aayushpantha  
 Medium: https://medium.com/@aayushpantha  
 Email: mailto:aayushpantha97@gmail.com
+
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=aayushpnth&theme=dark&include_all_commits=true&count_private=true)
