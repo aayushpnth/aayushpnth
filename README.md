@@ -1,10 +1,9 @@
 Hi there 👋  
 I'm Aayush Pantha  
 Security Researcher | Red Team | Offensive Security | OWASP Member 
-
 Security Researcher at SecureIQLab Pvt. Ltd.  
 I test how attacks behave and how defenses respond.
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2b2I3ZXNwcGoydzhjdzhpZXhoaXcxem1tYmRoMG43d3FpY251MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif" width="280" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnR2b2I3ZXNwcGoydzhjdzhpZXhoaXcxem1tYmRoMG43d3FpY251MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjHWpiVIOGXT5l9m/giphy.gif" width="260" align="left" />
 
 Areas of focus.
 - Web exploitation and chaining flaws
